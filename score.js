@@ -4,11 +4,11 @@
 
 //This code uses a FUNCTION named querySelector on the DOCUMENT
 //object to find two element, the button and the count.
-//let button = document.querySelector("#button");
-//let count = document.querySelector("#count");
+
+//let score = document.querySelector("#score");
 
 //A totally normal variable
-//let counter = 0;
+//let scoreCount = 0;
 
 //A totally normal function...
 //function theyClickedTheButton() {
